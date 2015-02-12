@@ -28,7 +28,6 @@ body a:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:768px;
 	padding:2.5em 0;
 }
 .logo {
