@@ -30,6 +30,7 @@ body a:hover{
 	-ms-background-size:cover;
 	padding:2.5em 0;
 }
+
 .logo {
 	margin: 8em 0 5em 0;
 }
@@ -128,6 +129,52 @@ form.ap-but p span{
 	background:#f8f8f8;
 	padding:10em 0;
 }
+
+
+.usage{
+	background:#ffffff;
+	padding:3em 0 5em;
+	text-align:center;
+}
+.usage h3{
+	font-size:2.5em;
+	font-weight: 300;
+	color:#1c1b1b;
+	margin:0 0 1em;
+	font-family: 'Open Sans', sans-serif;
+}
+.usage p{
+	font-size: 1.3em;
+	font-weight: 300;
+	color: #545454;
+	width: 44%;
+	margin:0 auto;
+	line-height:1.8em;
+	font-family: 'Lato', sans-serif;
+}
+
+.features{
+	background:#ffffff;
+	padding:3em 0 5em;
+	text-align:center;
+}
+.features h3{
+	font-size:1.8em;
+	font-weight: 300;
+	color:#1c1b1b;
+	margin:0 0 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.features p{
+	font-size: 1.3em;
+	font-weight: 300;
+	color: #222;
+	width: 44%;
+	margin:0 auto;
+	line-height:1.8em;
+	font-family: 'Lato', sans-serif;
+}
+
 .usage-top{
 	background:#ab9ef7;
 	padding:3em 3em 3em 0;
@@ -164,6 +211,7 @@ form.ap-but p span{
 	background:#df8ec0;
 	padding:6em 0;
 	text-align:center;
+	font-family: 'Lato', sans-serif;
 }
 .features-img{
 	position:relative;
