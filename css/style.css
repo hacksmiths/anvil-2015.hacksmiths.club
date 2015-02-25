@@ -395,6 +395,15 @@ ul.price-list li a:hover{
 	font-family: 'Open Sans', sans-serif;
 	text-align:center;
 }
+
+.footer h4{
+	font-size:1.5em;
+	font-weight: 300;
+	color:#fff;
+	margin:0 0 0.5em;
+	font-family: 'Open Sans', sans-serif;
+	text-align:center;
+}
 .ap-stor{
 	margin-top:5em;
 }
@@ -706,8 +715,8 @@ ul.social-list li a.tw{
 		font-size: 2em;
 	}
 	.ap-stor a img {
-		width: 150px;
-		height: 60px;
+	/*	width: 150px;
+		height: 60px;*/
 	}
 	.ap-stor {
 		margin-top: 2em;
