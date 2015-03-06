@@ -1,4 +1,4 @@
-/*
+
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -223,6 +223,33 @@ form.ap-but p span{
 	left: 9.8%;
 }
 /*-- Usage Part Ends Here --*/
+/*-- Structure Part Starts Here --*/
+#structure {
+	color: #fefefe;
+	background:#8ec0df;
+	padding: 50px 0;
+}
+#structure h2,
+#structure thead th,
+#structure header h3{
+	color: #1a1a1a;
+}
+#structure th,
+#structure header h3{
+	font-size: 18px;
+	text-transform: uppercase;
+	padding: 10px;
+}
+#structure td {
+	padding: 10px;
+}
+#structure .table-wrapper {
+  padding: 25px 0;
+}
+#structure header{
+  margin: 50px;
+}
+/*-- Structure Part Ends Here --*/
 /*-- Features Part Starts Here --*/
 .features{
 	background:#df8ec0;
@@ -872,4 +899,4 @@ ul.social-list li a.tw{
 		padding: 1em 0 0;
 	}
 }
-/*-- Media Queries Ends Here --*/
+/*-- Media Queries Ends Here --
