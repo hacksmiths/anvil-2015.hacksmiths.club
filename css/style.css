@@ -115,6 +115,14 @@ form.ap-but p span{
 	left:28.8%;
 	background:#000;
 }
+.graph h2{
+	font-size:3.5em;
+	font-weight: 300;
+	color:#1c1b1b;
+	margin:0 0 1em;
+	font-family: 'Open Sans', sans-serif;
+}
+
 .graph h3{
 	font-size:2.5em;
 	font-weight: 300;
