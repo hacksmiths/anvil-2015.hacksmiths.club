@@ -133,8 +133,8 @@ form.ap-but p span{
 .graph p{
 	font-size: 1.3em;
 	font-weight: 300;
-	color: #545454;
-	width: 44%;
+	color: #222;
+	width: 66%;
 	margin:0 auto;
 	line-height:1.8em;
 	font-family: 'Lato', sans-serif;
@@ -692,7 +692,7 @@ ul.social-list li a.tw{
 		font-size: 1.5em;
 	}
 	.graph p {
-		font-size: 0.85em;
+		font-size: 1em;
 		width: 80%;
 	}
 	.usage-top p {
@@ -812,7 +812,7 @@ ul.social-list li a.tw{
 		height: 67px!important;
 	}
 	.graph p {
-		font-size: 0.85em;
+		font-size: 1em;
 		width: 100%;
 		height: 45px;
 		overflow: hidden;
