@@ -39,7 +39,7 @@ body a:hover{
 	color#000;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:300;
-	margin:1em 0 0 0
+	margin:0.3em 0 0 0
 }
 
 .header-matter h2{
@@ -768,7 +768,8 @@ ul.social-list li a.tw{
 	}
 	.header-matter h1 {
 		/*font-size: 0.85em;*/
-		line-height: 1.4em;
+		margin-top:0px;
+		/*line-height: 1.4em;*/
 	}
 	.header-matter p {
 		font-size: 0.8em;
