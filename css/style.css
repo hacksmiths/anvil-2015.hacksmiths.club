@@ -844,8 +844,8 @@ ul.social-list li a.tw{
 	.graph p {
 		font-size: 1em;
 		width: 100%;
-		height: 45px;
-		overflow: hidden;
+		/*height: 45px;*/
+		/*overflow: hidden;*/
 	}
 	.second-img img {
 		width: 35%;
