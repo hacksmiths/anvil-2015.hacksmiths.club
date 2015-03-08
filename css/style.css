@@ -23,6 +23,7 @@ body a:hover{
 /*-- Header Part Starts Here --*/
 .header{
 	background:url(../images/banner.jpg)no-repeat;
+	/*background-color:#444;*/
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
