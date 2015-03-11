@@ -229,13 +229,16 @@ form.ap-but p span{
 /*-- Usage Part Ends Here --*/
 /* GENERIC SECTION STYLES*/
 
-
 #about,
-#sponsors {
+#sponsors,
+#structure,
+#faq {
 	padding: 75px;
 }
 #about h2,
-#sponsors h2 {
+#sponsors h2,
+#structure h2,
+#faq h2 {
 	font-size: 35px;
   font-weight: 400;
   text-transform: uppercase;
@@ -259,17 +262,35 @@ form.ap-but p span{
 #sponsors {
 	background: #fff;
 }
+#sponsors p.getInTouch {
+	margin-top: 50px;
+}
+.getInTouchLink {
+	color: #4b7bbb;
+  margin-top: 20px;
+  border: solid 2px;
+  display: inline-block;
+  text-transform: uppercase;
+  padding: 10px 30px;
+}
+.getInTouchLink:hover {
+	background: #1e1e1e;
+	color: #fff;
+}
 /*Sponsors part ends here*/
-/*-- Structure Part Starts Here --
+/*-- Structure Part Starts Here -- */
 #structure {
 	color: #fefefe;
-	background:#8ec0df;
-	padding: 50px 0;
+	background: #1e1e1e;
+}
+#structure h3 {
+  color: #ac86a6!important;
+  margin: 30px;
 }
 #structure h2,
 #structure thead th,
 #structure header h3{
-	color: #1a1a1a;
+	color: #fff;
 }
 #structure th,
 #structure header h3{
@@ -287,6 +308,14 @@ form.ap-but p span{
   margin: 50px;
 }
 /*-- Structure Part Ends Here --*/
+/*FAQ starts here*/
+
+#faq h4,
+#faq h2 {
+	color: #fefefe;
+}
+
+/*FAQ ends here*/
 /*-- Features Part Starts Here --*/
 .features{
 	background:#df8ec0;
@@ -614,7 +643,9 @@ ul.social-list li a.tw{
 @media(max-width:768px){
 	.header,
 	#about,
-	#sponsors {
+	#sponsors,
+	#structure,
+	#faq {
 		padding: 50px 25px;
 	}
 	.col-md-4.iphone {
